@@ -116,6 +116,11 @@ header h2 {
   background-color: var(--primary-color);
 }
 
+.wrap_time .time {
+  width: 40px;
+  text-align: center;
+}
+
 /* .progress {
   width: 100%;
   -webkit-appearance: none;
